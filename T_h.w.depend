@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1652127508 source:c:\users\ss\desktop\t_h.w\main.cpp
+	<iostream>
+	<memory>
+	"Polynomial.h"
+
+1652127353 c:\users\ss\desktop\t_h.w\polynomial.h
+	<vector>
+	<memory>
+
+1652128595 source:c:\users\ss\desktop\t_h.w\polynomial.cpp
+	<iostream>
+	<memory>
+	<vector>
+	<string.h>
+	<sstream>
+	"Polynomial.h"
+
+1652123908 source:c:\users\ss\desktop\ibrahim\githib project\t_h.w - copy\main.cpp
+	<iostream>
+	<memory>
+	"Polynomial.h"
+
+1652123753 c:\users\ss\desktop\ibrahim\githib project\t_h.w - copy\polynomial.h
+	<vector>
+	<memory>
+
+1652124995 source:c:\users\ss\desktop\ibrahim\githib project\t_h.w - copy\polynomial.cpp
+	<iostream>
+	<memory>
+	<vector>
+	<string.h>
+	<sstream>
+	"Polynomial.h"
+
